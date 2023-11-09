@@ -1,6 +1,6 @@
 # Micro SaaS AI Starter with Next.js 14, React, Tailwind, Prisma, Stripe & GeneratedBy API
 
-![Micro SaaS AI Starter](https://github.com/0xGeegZ/ai-micro-saas-starter/blob/master/public/repo-amin-image.png?raw=true)
+![Micro SaaS AI Starter](https://github.com/stackninja8/ai-micro-saas-starter/blob/master/public/repo-amin-image.png?raw=true)
 
 > **Note:** This project is a fork of [next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) by Antonio Erdeljac.
 
@@ -51,7 +51,7 @@ These prompts are designed to help individuals and teams quickly start a SaaS bu
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/0xGeegZ/ai-micro-saas-starter
+git clone https://github.com/stackninja8/ai-micro-saas-starter
 ```
 
 ### Install packages
